@@ -8,3 +8,7 @@ Step:
 2. if it 64 sywow64
 3. glut32.lib copy to mingw\lib
 4. glut.h include\gl
+
+====================================
+Video:
+https://www.youtube.com/watch?v=VMsTI_CC-jc
