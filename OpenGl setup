@@ -12,3 +12,10 @@ Step:
 ====================================
 Video:
 https://www.youtube.com/watch?v=VMsTI_CC-jc
+
+https://www.transmissionzero.co.uk/software/freeglut-devel/ (freeglut)
+
+dill paste to c drive
+GL: file paste to GL
+Lib file paste to lib
+mingw>share>codeblocks>templates>glut.cbd (replace glut 32 to freeglut and wizard > glut>script glut32 to freeglut)
